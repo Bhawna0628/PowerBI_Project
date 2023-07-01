@@ -1,7 +1,7 @@
 # PowerBI_Project
-Data - HR DATA with over 22000 rows from year 2000 to 2020
-Data Cleaning & Analysis - MySQL Workbench
-Data Visualization - PowerBI
+1. Data - HR DATA with over 22000 rows from year 2000 to 2020
+2. Data Cleaning & Analysis - MySQL Workbench
+3. Data Visualization - PowerBI
 
 # Questions Solved in Data Analysis
 1. What is the gender breakdown of employees in a company?
