@@ -26,3 +26,7 @@
 7. Auditing has the highest sum of termination rate with 0.16 and marketing has the lowest with 0.09.
 8. A large number of employees come from the state Ohio.
 9. The net change in employees has incereased over the years.
+
+# Limitations in Data
+1. Some records had negative ages and these were exclued during data manipulation (967 records).
+2. Some termination dates were far into future and were not inclued in analysis (1599 records).
